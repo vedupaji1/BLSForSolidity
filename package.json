@@ -1,0 +1,16 @@
+{
+  "name": "tempbls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.5.6",
+    "ethers": "v5.7",
+    "mcl-wasm": "^1.3.0"
+  }
+}
